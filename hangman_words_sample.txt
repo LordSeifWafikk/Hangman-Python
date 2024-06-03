@@ -1,0 +1,151 @@
+Fruit:
+apple
+apricot
+banana
+berry
+blackberry
+blood orange
+blueberry
+cantaloupe
+cherry
+coconut
+fig
+grapefruit
+guava
+kiwi
+watermelon
+
+Vegetables:
+avocado
+bamboo shoots
+basil
+beans
+bell pepper
+black-eyed peas
+broccoli
+carrot
+cauliflower
+celery
+chick peas
+Chinese cabbage
+cucumber
+eggplant
+garlic
+ginger
+green bean
+hot chili peppers
+iceberg lettuce
+lentils
+lettuce
+mushroom
+okra
+onion
+pattypan squash
+pea
+peanut
+potato
+pumpkin
+spinach
+sweet potato
+tomato
+wasabi
+zucchini
+
+Dessert:
+almond cookie
+angel food cake
+apple brown Betty
+apple crisp
+apple pie
+baked Alaska
+baked apple
+baklava
+banana split
+Belgian waffle
+biscotti
+black forest cake
+blueberry muffin
+Boston cream pie
+bread pudding
+brownie
+buttercream frosting
+butterscotch
+cake
+caramel apple
+carrot cake
+cheesecake
+cherry pie
+chocolate bar
+chocolate cake
+chocolate chip cookie
+chocolate mousse
+cinnamon roll
+coconut cake
+coconut cream pie
+coffee cake
+cookie
+crepe Suzette
+cupcake
+custard
+doughnut
+eclair
+frosting
+frozen yogurt
+fruit salad
+ice cream
+ice cream cake
+icing
+jam
+Key lime pie
+ladyfingers
+macaroon
+marshmallow
+oatmeal cookie
+pancakes
+peanut butter cookie
+pecan pie
+popover
+popsicle
+pound cake
+praline
+pudding
+pumpkin pie
+
+
+Country Name:
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+France
+Gabon
+Georgia
+Germany
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+
+
